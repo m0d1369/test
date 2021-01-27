@@ -5,4 +5,4 @@ pass = {
 	pass2: "456"
 }
 
-console.log("Pass: " + str(pass))
+console.log("ok!")
